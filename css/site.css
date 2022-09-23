@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0 32px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;    
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+}
+
+.image{
+    text-align: center;
+    margin:24px 0 12px 0;
+    position: relative;
+}
+
+img.Perfil {
+    width: 15%;
+    border-radius: 50%;
+}
+.data{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.data
+.action{
+    padding: 16px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(74, 175, 153);
+    color: white;
+    border-radius: 8px;
+    width: 25%;
+    height: 50px;
+    border-width: 2px;
+    border: 1.5px solid #000;
+}
+
